@@ -1,0 +1,10 @@
+C:\Dev\WebHackingCourse\Module1\Module1\Module1\bin\Debug\netcoreapp1.1\Module1.deps.json
+C:\Dev\WebHackingCourse\Module1\Module1\Module1\bin\Debug\netcoreapp1.1\Module1.runtimeconfig.json
+C:\Dev\WebHackingCourse\Module1\Module1\Module1\bin\Debug\netcoreapp1.1\Module1.runtimeconfig.dev.json
+C:\Dev\WebHackingCourse\Module1\Module1\Module1\bin\Debug\netcoreapp1.1\Module1.dll
+C:\Dev\WebHackingCourse\Module1\Module1\Module1\bin\Debug\netcoreapp1.1\Module1.pdb
+C:\Dev\WebHackingCourse\Module1\Module1\Module1\obj\Debug\netcoreapp1.1\Module1.csprojResolveAssemblyReference.cache
+C:\Dev\WebHackingCourse\Module1\Module1\Module1\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Dev\WebHackingCourse\Module1\Module1\Module1\obj\Debug\netcoreapp1.1\Module1.AssemblyInfo.cs
+C:\Dev\WebHackingCourse\Module1\Module1\Module1\obj\Debug\netcoreapp1.1\Module1.dll
+C:\Dev\WebHackingCourse\Module1\Module1\Module1\obj\Debug\netcoreapp1.1\Module1.pdb

@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  module1:
+    image: module1
+    build:
+      context: ./Module1
+      dockerfile: Dockerfile
